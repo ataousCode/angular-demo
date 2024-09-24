@@ -1,5 +1,8 @@
 # AngularCrash
 
+<img width="1434" alt="Screenshot 2024-09-25 at 01 59 02" src="https://github.com/user-attachments/assets/3ba8fc70-41db-441c-9204-24f5a23c3185">
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
 ## Development server
